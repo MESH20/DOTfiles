@@ -44,3 +44,4 @@ setopt EXTENDED_HISTORY        # save timestamp and runtime information
 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias "ls=ls --color=auto"
+alias "d=dirs -v"
